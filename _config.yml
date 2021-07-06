@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Welcome to the Personal Website
+author: Andrew Booth
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  of Andrew Booth
+baseurl: "AndrewBooth.github.io"
 
 plugins:
   - jekyll-feed
