@@ -17,8 +17,8 @@ favicon: /assets/ico/favicon.ico
 # social media
 twitter_username: # # your twitter handle
 github_username: # your github username
-linkedin: saragong # AndrewBBooth ("https://www.linkedin.com/in/...")
-# facebook_username: AndrewBuckleyBooth <-- your facebook username (the part after "https://www.facebook.com/...")
+linkedin: AndrewBBooth # AndrewBBooth ("https://www.linkedin.com/in/...")
+facebook_username: AndrewBuckleyBooth <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
