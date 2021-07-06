@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: Welcome to the website of
-banner_subtitle: Andrew Booth
+banner_title: Andrew Booth
+banner_subtitle: CV, Background, and more
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
