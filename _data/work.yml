@@ -4,7 +4,8 @@
 work:
   - category: Current Translations
     items:
-    
+      - item: example.html
+        image: /images/NYC1.jpg
       - item: example.html
         image: /images/NYC2.jpg
       - item: example2.html
