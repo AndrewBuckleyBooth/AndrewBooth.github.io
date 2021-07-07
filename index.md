@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Andrew Booth
-banner_subtitle: Background, CV, and more.
+banner_subtitle: Background, CV, and Contact.
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -18,8 +18,9 @@ favicon: /assets/ico/favicon.ico
 twitter_username: # # your twitter handle
 github_username: # your github username
 linkedin: AndrewBBooth # AndrewBBooth ("https://www.linkedin.com/in/...")
-facebook_username: AndrewBuckleyBooth <-- your facebook username (the part after "https://www.facebook.com/...")
+facebook_username: AndrewBuckleyBooth <!-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
+-->
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button:  # the link
