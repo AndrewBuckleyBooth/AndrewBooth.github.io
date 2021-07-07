@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Andrew Booth
-banner_subtitle: CV, Background, and more
+banner_subtitle: Background, CV, and more.
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -17,8 +17,8 @@ favicon: /assets/ico/favicon.ico
 # social media
 twitter_username: # # your twitter handle
 github_username: # your github username
-linkedin: saragong # AndrewBBooth ("https://www.linkedin.com/in/...")
-# facebook_username: AndrewBuckleyBooth <-- your facebook username (the part after "https://www.facebook.com/...")
+linkedin: AndrewBBooth # AndrewBBooth ("https://www.linkedin.com/in/...")
+facebook_username: AndrewBuckleyBooth <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
@@ -29,14 +29,14 @@ about_button_label:  # the label on the button
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio: CV # the heading for your portfolio and title of your YAML file
+portfolio_description: Other documents and translations of the CV are available upon request.
 
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta_description: Questions, comments, or concerns? Please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
 cta_button: mailto:Andrew.Booth@mail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
