@@ -42,10 +42,11 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **Andrew Booth**?  
+### Why **Andrew Booth**?  
   
   
-**Andrew Booth** is still creating this website to convince you that you should hire him.
+**Andrew Booth** is a Texan with degrees in philosophy, political science, and economics who is now studying Economic Behavior and Governance MSc at the University of Kassel. He speaks English, German, and French fluently, is learning Spanish and Turkish, and doesn't plan to stop there. Perhaps his crowning achievement, he is the proud fiancé of the beautiful and brilliant Bilgesu, a psychiatrist and psychotherapist.
+A charismatic person who enjoys working, collaborating, and learning with others, he is quick to jump in and make things happen even if that should just be brainstorming. A natural at optimizing efficiency in processes both through creative thinking and systematic, comprehensive analysis. For **Andrew Booth**, problems are an opportunity to figure out a solution and success a motivator to find the next edge-giving innovation.
   
 
 
