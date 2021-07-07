@@ -5,8 +5,8 @@ CV:
   - category:
     items:
       - item: example.html
-        image: /images/NYC2.jpg
+        image: 
       - item: example2.html
-        image: /images/NYC3.jpg
+        image: 
       - item: example3.html
-        image: /images/NYC4.jpg
+        image: 
